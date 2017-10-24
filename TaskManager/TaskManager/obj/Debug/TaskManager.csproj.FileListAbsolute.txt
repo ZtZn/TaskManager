@@ -1,0 +1,10 @@
+c:\users\kzn1\YandexDisk\Visual Studio 2013\Projects\TaskManager\TaskManager\bin\Debug\TaskManager.exe.config
+c:\users\kzn1\YandexDisk\Visual Studio 2013\Projects\TaskManager\TaskManager\obj\Debug\TaskManager.csprojResolveAssemblyReference.cache
+c:\users\kzn1\YandexDisk\Visual Studio 2013\Projects\TaskManager\TaskManager\obj\Debug\TaskManager.Form1.resources
+c:\users\kzn1\YandexDisk\Visual Studio 2013\Projects\TaskManager\TaskManager\obj\Debug\TaskManager.Properties.Resources.resources
+c:\users\kzn1\YandexDisk\Visual Studio 2013\Projects\TaskManager\TaskManager\obj\Debug\TaskManager.csproj.GenerateResource.Cache
+c:\users\kzn1\YandexDisk\Visual Studio 2013\Projects\TaskManager\TaskManager\bin\Debug\TaskManager.exe
+c:\users\kzn1\YandexDisk\Visual Studio 2013\Projects\TaskManager\TaskManager\bin\Debug\TaskManager.pdb
+c:\users\kzn1\YandexDisk\Visual Studio 2013\Projects\TaskManager\TaskManager\obj\Debug\TaskManager.exe
+c:\users\kzn1\YandexDisk\Visual Studio 2013\Projects\TaskManager\TaskManager\obj\Debug\TaskManager.pdb
+c:\users\kzn1\YandexDisk\Visual Studio 2013\Projects\TaskManager\TaskManager\obj\Debug\TaskManager.AddTaskFileStart.resources
